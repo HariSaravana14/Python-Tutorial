@@ -3,4 +3,4 @@ def fah(n):
     return f
 
 c = int(input("Enter the Celsius: "))
-fah(c)
+print(fah(c))
